@@ -1,5 +1,5 @@
 # Hugo Silva de Oliveira
-Estudante de Análise e Desenvolvimento de Sistemas e Curso de capacitação Talento Cloud da Proz + AWS com foco em Front-end e Nuvem!
+Estudante de Análise e Desenvolvimento de Sistemas e Curso de capacitação Talento Cloud da Proz + AWS com foco em Front-end e Cloud!
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/hugosbourne01)
